@@ -17,4 +17,8 @@ A real-time Indian Sign Language recognition system that converts hand gestures 
 4. Run camera inference
 
 ## DATASET
-Indian Sign Language Dataset (Kaggle)
+Indian Sign Language Dataset.
+
+#indian sign language for numbers and alphabets
+<img width="1097" height="802" alt="image" src="https://github.com/user-attachments/assets/3d8859d0-0fa9-460c-879e-4e9863986b9f" />
+
