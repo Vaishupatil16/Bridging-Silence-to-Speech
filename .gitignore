@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Dataset (large files)
+dataset/
+isl.zip
+
+# Model files
+models/*.pkl
+
+# Output
+output/
+
+# Python cache
+__pycache__/
+*.pyc
